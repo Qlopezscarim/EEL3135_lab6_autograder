@@ -1,0 +1,44 @@
+{
+  "tests": [
+    {
+      "name": "Exerscise 6.1 part a l=10 check",
+      "setup": "",
+      "run": "sudo ./test 0",
+      "input": "",
+      "output": "1",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 7
+    },
+    {
+      "name": "Exerscise 6.1 part b l=10 check",
+      "setup": "",
+      "run": "sudo ./test 1",
+      "input": "",
+      "output": "1",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 7
+    },
+    {
+      "name": "Exerscise 6.1 part b l=100 check",
+      "setup": "",
+      "run": "sudo ./test 2",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 7
+    },
+    {
+      "name": "Exerscise 6.1 part c l=10 check",
+      "setup": "",
+      "run": "sudo ./test 3",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 79
+    }
+  ]
+}
